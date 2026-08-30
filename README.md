@@ -28,6 +28,25 @@ Planned deliverables:
 - Remediation recommendations
 - Professional assessment report
 
+  ###  Web Application Security Assessment
+
+A collection of authorized web-application security assessment case studies completed in controlled PortSwigger Web Security Academy labs.
+
+#### Completed: SQL Injection Assessment
+
+**Project:** [WAST-01 – SQL Injection in Product Category Filter](./web-security-assessment/WAST-01-sql-injection-hidden-data.md)
+
+- Identified and validated a SQL Injection vulnerability in an authorized PortSwigger Web Security Academy lab.
+- Used Burp Suite Community Edition, including Proxy, HTTP History, and Repeater, to capture and test a user-controlled `category` parameter.
+- Demonstrated that unsafe input handling could alter backend query logic and expose hidden or unreleased product records in the controlled lab.
+- Produced a professional security assessment report including scope, methodology, evidence, severity assessment, business impact, remediation recommendations, and retesting guidance.
+- Mapped the finding to the OWASP Injection category.
+
+**Skills demonstrated:** Burp Suite, HTTP request analysis, SQL Injection testing, input validation assessment, risk analysis, OWASP Top 10, vulnerability reporting, and remediation planning.
+
+[View Web Security Assessment Project](./web-security-assessment/)
+
+
 ### Wazuh Linux Security Monitoring and Incident Investigation
 A host-based intrusion-detection and alert-investigation project using Wazuh/OSSEC, Linux logs, and Kibana.
 
