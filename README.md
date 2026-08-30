@@ -17,17 +17,6 @@ This portfolio contains authorized lab projects focused on Linux security, secur
 
 ## Featured Projects
 
-### Vulnerability Assessment and Penetration Testing Lab
-An authorized vulnerability assessment of an isolated vulnerable lab environment using Nmap, Nessus, OpenVAS, and Burp Suite.
-
-Planned deliverables:
-- Scope and authorization statement
-- Assessment methodology
-- Vulnerability findings with CVSS-based prioritization
-- Sanitized evidence
-- Remediation recommendations
-- Professional assessment report
-
   ###  Web Application Security Assessment
 
 A collection of authorized web-application security assessment case studies completed in controlled PortSwigger Web Security Academy labs.
@@ -47,6 +36,17 @@ A collection of authorized web-application security assessment case studies comp
 [View Web Security Assessment Project](./web-security-assessment/)
 
 
+### Vulnerability Assessment and Penetration Testing Lab
+An authorized vulnerability assessment of an isolated vulnerable lab environment using Nmap, Nessus, OpenVAS, and Burp Suite.
+
+Planned deliverables:
+- Scope and authorization statement
+- Assessment methodology
+- Vulnerability findings with CVSS-based prioritization
+- Sanitized evidence
+- Remediation recommendations
+- Professional assessment report
+  
 ### Wazuh Linux Security Monitoring and Incident Investigation
 A host-based intrusion-detection and alert-investigation project using Wazuh/OSSEC, Linux logs, and Kibana.
 
