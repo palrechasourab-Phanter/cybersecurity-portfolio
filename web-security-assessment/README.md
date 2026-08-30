@@ -1,3 +1,5 @@
+## Case Studies
+
 | ID | Vulnerability Category | Platform | Severity | Status |
 |---|---|---|---|---|
 | [WAST-01](./web-security-assessment/WAST-01-sql-injection-hidden-data.md) | SQL Injection – Product Category Filter | PortSwigger Web Security Academy | High | Completed |
